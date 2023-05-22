@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://hutester.pages.dev/'
 languageCode: en-us
 title: Akiru
 theme: PaperMod
